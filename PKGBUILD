@@ -1,6 +1,6 @@
 # PKGBUILD for zerotier-status-daemon
 pkgname=zerotier-status-daemon
-pkgver=1.0.4
+pkgver=1.0.7
 pkgrel=1
 pkgdesc="A native Qt C++ system tray status indicator for ZeroTier"
 arch=('x86_64')

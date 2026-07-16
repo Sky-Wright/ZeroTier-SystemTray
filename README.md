@@ -7,6 +7,9 @@ Built natively in C++ using Qt5/Qt6, this app integrates directly into your desk
 ## Features
 - **Dynamic Status Indicator:** Red (stopped), Orange (running/disconnected), and Blue (running/connected).
 - **Passwordless Service Toggle:** Toggle the `zerotier-one` systemd service silently using granular Polkit rules (no sudo password prompts).
+- **Dynamic Networks List:** View your currently joined ZeroTier networks directly in a "My Networks" submenu.
+- **Join Network:** Join new networks easily from the tray using a graphical text input box.
+- **Leave/Disconnect Network:** Disconnect and leave networks cleanly with a graphical confirmation prompt.
 - **Start Menu Integration:** Desktop launcher file included.
 - **Lightweight & Transparent:** No network tokens or credentials accessed; queries status natively via systemd and interface checks.
 
