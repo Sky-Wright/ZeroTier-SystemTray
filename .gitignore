@@ -1,0 +1,11 @@
+# Build and packaging directories
+build/
+pkg/
+src/
+
+# Package outputs
+*.pkg.tar.zst
+
+# Logs
+*.log
+.DS_Store

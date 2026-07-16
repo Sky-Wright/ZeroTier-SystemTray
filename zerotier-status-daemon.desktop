@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ZeroTier Status Tray
+Comment=ZeroTier status tray icon and service control
+Exec=zerotier-status-daemon
+Icon=network-vpn
+Terminal=false
+Type=Application
+Categories=Network;
