@@ -9,3 +9,4 @@ src/
 # Logs
 *.log
 .DS_Store
+LazyCommit.sh
